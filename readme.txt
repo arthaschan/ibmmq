@@ -14,3 +14,8 @@ IBMMQ服务器环境
 账号：mqm,123456
 CCSID:1208
 Port:1416
+
+第一次git 提交到远程仓库不成功
+项目所在目录gitBash here
+git pull origin master --allow-unrelated-histories
+再次Push
